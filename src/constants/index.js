@@ -215,7 +215,7 @@ export const pricing = [{
         id: "1",
         title: "Premium",
         description: "Advanced AI-bot for heavy user",
-        price: "3",
+        price: "50",
         features: [
             "AI-bot with prompt engineering function",
             "1M token/month",
